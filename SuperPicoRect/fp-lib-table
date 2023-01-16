@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Adafruit Kicad 3.2 TFT 320x240")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/Adafruit Kicad 3.2 TFT 320x240.pretty")(options "")(descr ""))
+  (lib (name "SS-52400-003")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/SS-52400-003")(options "")(descr ""))
+)

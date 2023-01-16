@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit Kicad 3.2 TFT 320x240")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/Adafruit Kicad 3.2 TFT 320x240.kicad_sym")(options "")(descr ""))
+  (lib (name "SS-52400-003")(type "KiCad")(uri "C:/Users/cools/Documents/SuperPicoRect/SuperPicoRectangle/SS-52400-003/SS-52400-003.kicad_sym")(options "")(descr ""))
+)
